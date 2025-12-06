@@ -37,37 +37,21 @@ Este projeto é uma plataforma de cursos online voltada para a área de emissõe
 - react-icons: Biblioteca de ícones para React (versão 5.3.0).
 - react-router-dom: Roteamento para navegação dinâmica (versão 6.26.2).
 
-Tela de Login
-![onboarding01](https://github.com/user-attachments/assets/aaa1d5a1-6aff-45b1-9d4b-23ea9864aaae)
+![384698169-aaa1d5a1-6aff-45b1-9d4b-23ea9864aaae (1)-redacted_dot_app](https://github.com/user-attachments/assets/6130857a-3edc-499a-a2eb-8da79bd1e350)
 
-Tela Inicial
-![onboarding02](https://github.com/user-attachments/assets/a961c633-0d92-4a00-8ef8-ce6132d4a726)
+![384698191-a961c633-0d92-4a00-8ef8-ce6132d4a726-redacted_dot_app](https://github.com/user-attachments/assets/e2bb5352-37a9-4c6b-9c66-47ad0be9959f)
 
-Tela de Cursos
-![WhatsApp Image 2024-11-13 at 20 55 35](https://github.com/user-attachments/assets/477f22ae-7fb5-4bdb-b2ee-1965b39d6201)
+![384698437-e6f75744-023d-4b22-80eb-115ced097263-redacted_dot_app](https://github.com/user-attachments/assets/95c6c993-8ab2-4866-81da-e4a8c952b4ff)
 
-Tela de Quiz
-![Screenshot_1](https://github.com/user-attachments/assets/88509666-366a-4e40-891a-ae388ba5be63)
+![384698463-4052ff3e-cdf8-4700-9dac-74a9dd11083b-redacted_dot_app](https://github.com/user-attachments/assets/0ab8ff84-b9b3-46cd-953e-57ea338715d0)
 
-Tela de Quiz: Perguntas 
+![385985404-477f22ae-7fb5-4bdb-b2ee-1965b39d6201-redacted_dot_app](https://github.com/user-attachments/assets/af1706d1-a898-474e-a5d9-a3a63fc1e371)
 
-![Screenshot_2](https://github.com/user-attachments/assets/e8279946-86fc-4471-a88e-a08d50c8edcc)
+![390878658-88509666-366a-4e40-891a-ae388ba5be63-redacted_dot_app](https://github.com/user-attachments/assets/e7845763-60c5-495e-9c82-38e284732b35)
 
-Tela de Quiz: Score
-
-![Screenshot_3](https://github.com/user-attachments/assets/171ababa-8090-4f7e-89a0-b976d653ebcb)
-
-Tela de Quiz: Comentários
-
-![Screenshot_5](https://github.com/user-attachments/assets/820080b7-ded0-42eb-aa4a-af0f61d59f01)
+![390878724-e8279946-86fc-4471-a88e-a08d50c8edcc-redacted_dot_app](https://github.com/user-attachments/assets/be55e642-d2a5-4527-a735-edad12dea2a6)
 
 
-Ranking de Pontuação
-![onboarding03](https://github.com/user-attachments/assets/e6f75744-023d-4b22-80eb-115ced097263)
-
-Página de Edição de Perfil
-
-![onboarding04](https://github.com/user-attachments/assets/4052ff3e-cdf8-4700-9dac-74a9dd11083b)
 
 Código-fonte
 ![Screenshot_6](https://github.com/user-attachments/assets/330dc7bb-7b3f-4c4e-8fed-d6c0d5fdf3fc)

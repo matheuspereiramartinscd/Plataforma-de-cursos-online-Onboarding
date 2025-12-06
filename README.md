@@ -54,5 +54,6 @@ Este projeto é uma plataforma de cursos online voltada para a área de emissõe
 
 
 Código-fonte
-![Screenshot_6](https://github.com/user-attachments/assets/330dc7bb-7b3f-4c4e-8fed-d6c0d5fdf3fc)
+![390879607-330dc7bb-7b3f-4c4e-8fed-d6c0d5fdf3fc-redacted_dot_app](https://github.com/user-attachments/assets/2693eccb-2548-4ff7-b8e0-fa5d75bdb406)
+
 
